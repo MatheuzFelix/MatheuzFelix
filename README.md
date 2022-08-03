@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python
 - 📫 How to reach me: matheuzfelixamorim@gmail.com
-- ⚡ Fun fact: katarina still works from Kraken Slayer is Blade of the Ruined King
+- ⚡ Fun fact : katarina still works from Kraken Slayer is Blade of the Ruined King
 
 
 <div align="center">
